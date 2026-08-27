@@ -1,3 +1,9 @@
+https://drive.google.com/file/d/1if1MMF3-z4kzed_rSZQTH7tc6gBV3rnE/view?usp=sharing
+
+Recomendação Final de Investimento:
+Recomendo a aquisição do imóvel de 3 quartos no bairro Morretes, ID 2747933634. O ativo está precificado em R$ 450.000, conta com 31 amenidades (incluindo piscina e churrasqueira) e projeta uma rentabilidade bruta de 18% ao ano.
+Para reproduzir os dados, execute os scripts em Python em anexo na seguinte ordem: etl_load_data.py, ranking_yield_bairros.py e morretes_3q_top3.py.
+
 # Hackathon Jovens Talentos AI Builder 2026 — Seazone
 
 ## 👉 Leia o desafio aqui
