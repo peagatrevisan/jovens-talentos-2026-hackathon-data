@@ -3,6 +3,7 @@
 # Onde investir em Airbnb em Itapema (SC)? Testando uma tese com dados e IA
 
 > **Hackathon Jovens Talentos AI Builder 2026 — Seazone** · análise feita em 1 dia, com um agente de IA (OpenCode) como par de programação
+>
 > **Stack:** Python · pandas · NumPy · OpenCode (agente de IA)
 
 **Resposta curta:** a tese interna de que *apartamentos compactos no Centro* são a melhor aposta **não se sustenta nos dados**. O Centro com 1 quarto rende **6,35% ao ano** (6º lugar entre 11 perfis), enquanto **Morretes com 3 quartos** lidera com **9,94%**: custo de compra parecido, diária quase 50% maior.
